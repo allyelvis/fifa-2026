@@ -1,0 +1,13 @@
+# Unity specific
+Library/
+Temp/
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.log
+.vs/
+
+# OS generated
+.DS_Store
+Thumbs.db
